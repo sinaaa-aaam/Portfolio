@@ -27,7 +27,7 @@ Committed to contributing to xAI’s mission of advancing AI and human knowledge
 - [More Details Here](https://github.com/sinaaa-aaam/MedAid.git)
 
 ## Skills
-- Programming Languages: Python, JavaScript, HTML/CSS
+- Programming Languages: Python, JavaScript, HTML/CSS, SQL
 - Tools: GitHub, Git
 - Soft Skills: Teamwork, Communication, Critical Thinking, Emotional Intelligence
 
