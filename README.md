@@ -6,7 +6,7 @@ Strong background in Python, JavaScript, and frontend development. Skilled in bu
 
 ## Featured Projects
 ### 🔹 Attendance and Payroll Automation System
--Worked on a system that offers seamless check-ins for employees at a Meridian Port Services to track attendance, analyze punctuality trends, predict future behavior, and automate payroll calculations based on attendance data.   
+- Worked on a system that offers seamless check-ins for employees at a Meridian Port Services to track attendance, analyze punctuality trends, predict future behavior, and automate payroll calculations based on attendance data.   
 - Built during internship at Ibit Soft Ltd.
 - Features: Employee check-ins, punctuality trend analysis, attendance-based payroll.
 - Technologies: Python, HTML/CSS, JavaScript, Django, SQL
