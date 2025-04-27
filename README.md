@@ -26,6 +26,15 @@ Strong background in Python, JavaScript, and frontend development. Skilled in bu
 - Technologies: Python, JavaScript, JSON, HTML/CSS, PHP, SQL
 - [More Details Here](https://github.com/sinaaa-aaam/MedAid.git)
 
+## Certifications
+- **Bright Network Internship Experience UK – Technology Sector**   
+  Participated in a four-day virtual internship focused on AI innovation, software engineering practices, and emerging technology trends.  
+  - Researched key challenges in the fashion industry and proposed technology-driven solutions.  
+  - Authored a detailed report on leveraging Artificial Intelligence to optimize processes and address inefficiencies in the fashion sector.  
+  - Developed problem-solving, critical thinking, and technical communication skills.
+  - [View Certificate](https://www.brightnetwork.co.uk/certificates/bright-network-ieuk-2023-techn_547ohyc2z4l8f0/)
+  - [View Proposal](proposal.link) 
+
 ## Skills
 - Programming Languages: Python, JavaScript, HTML/CSS, SQL
 - Tools: GitHub, Git
