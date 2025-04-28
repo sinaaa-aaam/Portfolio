@@ -2,7 +2,7 @@
 
 ## About Me
 Software Engineer | Passionate about AI, Systems Engineering, and Data Applications. 
-Strong background in Python, JavaScript, and frontend development. Skilled in building intelligent systems and curating data solutions to support AI model advancement.  
+I have a solid foundation in Python, JavaScript, and frontend development, with experience in building intelligent systems and designing data solutions that advance AI capabilities. I am committed to continuous learning and professional growth, often taking on challenging projects in my personal time to sharpen my technical skills and expand my expertise
 
 ## Featured Projects
 ### 🔹 Attendance and Payroll Automation System
@@ -53,7 +53,7 @@ Strong background in Python, JavaScript, and frontend development. Skilled in bu
 - Programming Languages: Python, JavaScript, HTML/CSS, SQL
 - Tools: GitHub, Git
 - Cloud and Systems Knowledge: Foundational experience with AWS
-- Soft Skills: Teamwork, Communication, Critical Thinking, Emotional Intelligence
+- Soft Skills: Teamwork, Communication, Critical Thinking, Emotional Intelligence, Leadership
 
 ## Contact
 - 📧 Email: ameteweesinam413@gmail.com
