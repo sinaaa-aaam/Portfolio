@@ -32,6 +32,7 @@ Strong background in Python, JavaScript, and frontend development. Skilled in bu
 - Delivered personalized health advice tailored to user metrics.
 - Technologies: Python, JavaScript, JSON, HTML/CSS, PHP, SQL
 - [More Details Here](https://github.com/sinaaa-aaam/MedAid.git)
+- [View Demo](https://www.youtube.com/watch?v=6RNk1W3g038&feature=youtu.be)
 
  ###  Smart Home Control System 
 - The Smart Home Controller is a Java-based application that simulates the control and automation of various smart devices such as lights, alarms, locks, and cameras within a household. 
