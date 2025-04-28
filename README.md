@@ -33,7 +33,7 @@ Strong background in Python, JavaScript, and frontend development. Skilled in bu
   - Authored a detailed report on leveraging Artificial Intelligence to optimize processes and address inefficiencies in the fashion sector.  
   - Developed problem-solving, critical thinking, and technical communication skills.
   - [View Certificate](https://www.brightnetwork.co.uk/certificates/bright-network-ieuk-2023-techn_547ohyc2z4l8f0/)
-  - [View Proposal](proposal.link) 
+  - [View Proposal](https://docs.google.com/presentation/d/1gAIUG92Q9sd07HeP3cW_Tu-5YqEtbgQqRUv01eyJSlU/edit?usp=sharing) 
 
 ## Skills
 - Programming Languages: Python, JavaScript, HTML/CSS, SQL
