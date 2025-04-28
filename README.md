@@ -13,7 +13,8 @@ I have a solid foundation in Python, JavaScript, and frontend development, with 
 - [More Details Here](https://github.com/Wazaaah/iBit_Soft_Project_.git)
 
 ### 🔹 Customer Feedback Web Application
-- Currently the frontend developer for a data-powered web based customer feedback system that allows customers to share feedback while enabling businesses to track, analyze, and respond to customer insights in real-time.
+- Work In Progress
+- Currently the frontend developer and Software Test Engineer (Unit Testing Focus) for a data-powered web based customer feedback system that allows customers to share feedback while enabling businesses to track, analyze, and respond to customer insights in real-time.
 - Features to be Implemented : User/admin dashboards, insight generation.
 - Technologies: JavaScript, HTML, CSS, SQL
 - [More Details Here](https://github.com/Delice782/DataSphere.git)
