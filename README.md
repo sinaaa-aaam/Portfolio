@@ -13,10 +13,17 @@ Strong background in Python, JavaScript, and frontend development. Skilled in bu
 - [More Details Here](https://github.com/Wazaaah/iBit_Soft_Project_.git)
 
 ### 🔹 Customer Feedback Web Application
-- Frontend developer for a data-powered web based customer feedback system that allows customers to share feedback while enabling businesses to track, analyze, and respond to customer insights in real-time.
-- Features: User/admin dashboards, insight generation.
+- Currently the frontend developer for a data-powered web based customer feedback system that allows customers to share feedback while enabling businesses to track, analyze, and respond to customer insights in real-time.
+- Features to be Implemented : User/admin dashboards, insight generation.
 - Technologies: JavaScript, HTML, CSS, SQL
-- [More Details Here](link-to-repo-if-available)
+- [More Details Here](https://github.com/Delice782/DataSphere.git)
+- [Agile Developement](https://deliceishimwe95.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-34)
+
+##  🔹 Digital Journal Application
+- Memoire is a web-based journaling application that allows users to document their memories, reflections, and moments of gratitude. Built with PHP and MySQL, it provides a secure and intuitive platform for personal journaling and memory collection
+- Features:Journal Entries, Collections, Reflections, Gratitude Journal, User Authentication , Profile Management
+- Technologies Used: PHP, MySQL, HTML5/CSS3, JavaScript, Font Awesome Icons
+- [More Details Here](https://github.com/nana-ntim/memoire.git)
 
 ### 🔹 Health Risk Prediction Web Application
 - Developed a machine learning-inspired web-based app to predict health risk levels.
@@ -25,6 +32,12 @@ Strong background in Python, JavaScript, and frontend development. Skilled in bu
 - Delivered personalized health advice tailored to user metrics.
 - Technologies: Python, JavaScript, JSON, HTML/CSS, PHP, SQL
 - [More Details Here](https://github.com/sinaaa-aaam/MedAid.git)
+
+ ###  Smart Home Control System 
+- The Smart Home Controller is a Java-based application that simulates the control and automation of various smart devices such as lights, alarms, locks, and cameras within a household. 
+- Features: Java classes implemented based on 3 Design Patterns. Strategy, Observer and Factory Pattern
+-Technologies: Java, 
+- [More Details Here](https://github.com/sinaaa-aaam/SmartHomeController.git)
 
 ## Certifications
 - **Bright Network Internship Experience UK – Technology Sector**   
