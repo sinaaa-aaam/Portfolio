@@ -21,7 +21,7 @@ I have a solid foundation in Python, JavaScript, and frontend development, with 
 - [Agile Developement](https://deliceishimwe95.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-34)
 
 ##  🔹 Digital Journal Application
-- Memoire is a web-based journaling application that allows users to document their memories, reflections, and moments of gratitude. Built with PHP and MySQL, it provides a secure and intuitive platform for personal journaling and memory collection
+- Collaborated to build a web-based journaling application that allows users to document their memories, reflections, and moments of gratitude. Built with PHP and MySQL, it provides a secure and intuitive platform for personal journaling and memory collection
 - Features:Journal Entries, Collections, Reflections, Gratitude Journal, User Authentication , Profile Management
 - Technologies Used: PHP, MySQL, HTML5/CSS3, JavaScript, Font Awesome Icons
 - [More Details Here](https://github.com/nana-ntim/memoire.git)
