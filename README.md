@@ -17,7 +17,7 @@ I have a solid foundation in Python, JavaScript, and frontend development, with 
 - Currently the frontend developer and Software Test Engineer (Unit Testing Focus) for a data-powered web based customer feedback system that allows customers to share feedback while enabling businesses to track, analyze, and respond to customer insights in real-time.
 - Features to be Implemented : User/admin dashboards, insight generation.
 - Technologies: JavaScript, HTML, CSS, SQL
-- - Agile Developement:Jira
+- Agile Developement:Jira
 - [More Details Here](https://github.com/Delice782/DataSphere.git)
 
 ##  🔹 Digital Journal Application
