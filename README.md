@@ -18,8 +18,7 @@ I have a solid foundation in Python, JavaScript, and frontend development, with 
 - Features to be Implemented : User/admin dashboards, insight generation.
 - Technologies: JavaScript, HTML, CSS, SQL
 - [More Details Here](https://github.com/Delice782/DataSphere.git)
-- [Agile Developement](https://deliceishimwe95.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-34)
-
+- Agile Developement:Jira
 ##  🔹 Digital Journal Application
 - Collaborated to build a web-based journaling application that allows users to document their memories, reflections, and moments of gratitude. Built with PHP and MySQL, it provides a secure and intuitive platform for personal journaling and memory collection
 - Features:Journal Entries, Collections, Reflections, Gratitude Journal, User Authentication , Profile Management
