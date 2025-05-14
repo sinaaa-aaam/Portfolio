@@ -50,8 +50,8 @@ I have a solid foundation in Python, JavaScript, and frontend development, with 
   - [View Proposal](https://docs.google.com/presentation/d/1gAIUG92Q9sd07HeP3cW_Tu-5YqEtbgQqRUv01eyJSlU/edit?usp=sharing)
     
 - **Citi Program Humanities Responsible Conduct of Research**
-Trained in ethical research practices, including informed consent, data management, authorship, plagiarism, peer review, and collaborative research in the humanities.
--[View Certificate](https://www.citiprogram.org/verify/?w86fdad98-439c-4ce1-8f20-866c8d5c5751-69005476)
+    -Trained in ethical research practices, including informed consent, data management, authorship, plagiarism, peer review, and collaborative research in the humanities.
+    -[View Certificate](https://www.citiprogram.org/verify/?w86fdad98-439c-4ce1-8f20-866c8d5c5751-69005476)
 
 ## Skills
 - Programming Languages: Python, JavaScript, HTML/CSS, SQL
