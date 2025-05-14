@@ -47,7 +47,10 @@ I have a solid foundation in Python, JavaScript, and frontend development, with 
   - Authored a detailed report on leveraging Artificial Intelligence to optimize processes and address inefficiencies in the fashion sector.  
   - Developed problem-solving, critical thinking, research and technical communication skills.
   - [View Certificate](https://www.brightnetwork.co.uk/certificates/bright-network-ieuk-2023-techn_547ohyc2z4l8f0/)
-  - [View Proposal](https://docs.google.com/presentation/d/1gAIUG92Q9sd07HeP3cW_Tu-5YqEtbgQqRUv01eyJSlU/edit?usp=sharing) 
+  - [View Proposal](https://docs.google.com/presentation/d/1gAIUG92Q9sd07HeP3cW_Tu-5YqEtbgQqRUv01eyJSlU/edit?usp=sharing)
+- **Citi Program Humanities Responsible Conduct of Research**
+ - Trained in ethical research practices, including informed consent, data management, authorship, plagiarism, peer review, and collaborative research in the humanities.
+-[View Certificate](https://www.citiprogram.org/verify/?w86fdad98-439c-4ce1-8f20-866c8d5c5751-69005476)
 
 ## Skills
 - Programming Languages: Python, JavaScript, HTML/CSS, SQL
