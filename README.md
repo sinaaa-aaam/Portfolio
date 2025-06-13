@@ -46,7 +46,7 @@ I am committed to continuous learning and professional growth, often taking on c
 - **Technologies:** Python, JavaScript, JSON, HTML/CSS, PHP, SQL  
 - 🔗 [More Details Here](https://github.com/sinaaa-aaam/MedAid.git)  
 - 🎥 [View Demo](https://www.youtube.com/watch?v=6RNk1W3g038&feature=youtu.be)
--🔗 [Web App](http://169.239.251.102:3341/~sinam.ametewee/MedAId/)
+- 🔗 [Web App](http://169.239.251.102:3341/~sinam.ametewee/MedAId/)
 
 ---
 
