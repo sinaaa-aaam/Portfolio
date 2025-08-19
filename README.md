@@ -6,7 +6,7 @@
 
 ## About Me
 Software Engineer | Passionate about AI, Systems Engineering, and Data Applications.  
-I have a solid foundation in Python, JavaScript, and frontend development, with experience in building intelligent systems and designing data solutions that advance AI capabilities.  
+I have a solid foundation in Python, JavaScript, and frontend development, with experience in backend development, building intelligent systems and designing data solutions that advance AI capabilities.  
 I am committed to continuous learning and professional growth, often taking on challenging projects in my personal time to sharpen my technical skills and expand my expertise.
 
 ---
