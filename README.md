@@ -1,7 +1,5 @@
 # Sinam Afi Serwa Ametewee
 
-🌐 **Live Portfolio Website:** [http://169.239.251.102:3341/~sinam.ametewee/Portfolio/](http://169.239.251.102:3341/~sinam.ametewee/Portfolio/)
-
 ---
 
 ## About Me
