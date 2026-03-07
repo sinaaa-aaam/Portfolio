@@ -55,6 +55,16 @@ A Java-based application simulating control and automation of smart devices incl
 
 ---
 
+### 🔹 Personal Portfolio Website  *Work in Progress*
+A professional portfolio website for a client. The site features a blue-themed design, a booking system for sessions and speaking engagements, and sections showcasing his projects, research, leadership experience, and gallery.
+
+- **Features:** Session booking, speaking engagements, gallery, contact form
+- **Technologies:** React, Vite, CSS
+- **Deployment:** [Vercel](https://portfolio-project-lilac-omega.vercel.app/)
+- 🔗 [More Details](https://github.com/sinaaa-aaam/Portfolio-Project.git)
+
+---
+
 > 👀 **Want to see more?** Check out my full GitHub profile for all the projects I've collaborated on and built:
 > **[github.com/sinaaa-aaam](https://github.com/sinaaa-aaam)**
 
