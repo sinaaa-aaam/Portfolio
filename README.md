@@ -55,7 +55,7 @@ A Java-based application simulating control and automation of smart devices incl
 
 ---
 
-### 🔹 Personal Portfolio Website — Prince Dormenyo ⚒️ *Work in Progress*
+### 🔹 Personal Portfolio Website — *Work in Progress*
 A professional portfolio website for a client. The site features a blue-themed design, a booking system for sessions and speaking engagements, and sections showcasing his projects, research, leadership experience, and gallery.
 
 - **Features:** Session booking, speaking engagements, gallery, contact form
