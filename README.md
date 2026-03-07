@@ -43,7 +43,6 @@ A machine learning-inspired web app that predicts health risk levels based on us
 - **Technologies:** Python, JavaScript, JSON, HTML/CSS, PHP, SQL
 - 🔗 [More Details](https://github.com/sinaaa-aaam/MedAid.git)
 - 🎥 [View Demo](https://www.youtube.com/watch?v=6RNk1W3g038&feature=youtu.be)
-- 🌐 [Live Web App](http://169.239.251.102:3341/~sinam.ametewee/MedAId/)
 
 ---
 
