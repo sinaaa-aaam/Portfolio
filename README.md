@@ -87,7 +87,7 @@ A professional portfolio website for a client. The site features a blue-themed d
 
 | Category | Details |
 |---|---|
-| **Languages** | Python, JavaScript, HTML/CSS, SQL |
+| **Languages** | Python, JavaScript, HTML/CSS, React |
 | **Tools** | Git, GitHub |
 | **Cloud/Systems** | Foundational AWS experience |
 | **Soft Skills** | Teamwork, Communication, Critical Thinking, Emotional Intelligence, Leadership |
