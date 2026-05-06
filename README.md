@@ -9,7 +9,7 @@ I believe technology, when thoughtfully applied, is one of the most powerful too
 ---
 
 ## About Research
-- [Did Dr. Nyantakyi Just Replace GPS? A Silent Revolution in Signal Tracking](https://ashesiresearchclub.vercel.app/article/did-dr-nyantakyi-just-replace-gps?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaAQpEDJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafnrqcxu02SmVY0d7GpKkh0bI6b5zm_DK0dnl267bw-xuM2Ls57jn1DdueTyQ_aem_GpzCghI2_lUIWf4uM91mug)
+- [Did Dr. Nyantakyi Just Replace GPS? A Silent Revolution in Signal Tracking](https://ashesiresearchclub.vercel.app/article/did-dr-nyantakyi-just-replace-gps?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaAQpEDJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafnrqcxu02SmVY0d7GpKkh0bI6b5zm_DK0dnl267bw-xuM2Ls57jn1DdueTyQ_aem_GpzCghI2_lUIWf4uM91mug). [Medium Version](https://medium.com/@ashesiresearchclub25/did-dr-nyantakyi-just-replace-gps-a-silent-revolution-in-signal-tracking-9dc697946428?postPublishedType=initial)
 - [A Hybrid Deep-Large Language Framework For Predicting Atopic Diseases Using Environmental Patterns](https://github.com/sinaaa-aaam/Undergraduate_Thesis)
 
 
