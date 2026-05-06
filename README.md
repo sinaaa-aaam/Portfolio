@@ -1,12 +1,19 @@
 # Sinam Afi Serwa Ametewee
 
-Software Engineer | Passionate about AI, Systems Engineering, and Data Applications.
+Software Engineering | Passionate about AI Research, Systems Engineering, and Data Applications.
 
-I have a solid foundation in Python, JavaScript, and frontend development, with experience in backend development, building intelligent systems and designing data solutions that advance AI capabilities. I am committed to continuous learning and professional growth, often taking on challenging projects in my personal time to sharpen my technical skills and expand my expertise.
+I have a solid foundation in Python, JavaScript, and frontend development, with experience in backend development, building intelligent systems and designing data solutions that advance AI capabilities. I'm also passionate about harnessing research and innovation to solve sustainability challenges. I am committed to continuous learning and professional growth, often taking on challenging projects in my personal time to sharpen my technical skills and expand my expertise.
+A tech enthusiast at heart, I bridge machine learning and data science to build impactful solutions. 
+I believe technology, when thoughtfully applied, is one of the most powerful tools for creating a more sustainable world.
 
 ---
 
-## 🚀 Featured Projects
+## About Research
+- [Did Dr. Nyantakyi Just Replace GPS? A Silent Revolution in Signal Tracking](https://ashesiresearchclub.vercel.app/article/did-dr-nyantakyi-just-replace-gps?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaAQpEDJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafnrqcxu02SmVY0d7GpKkh0bI6b5zm_DK0dnl267bw-xuM2Ls57jn1DdueTyQ_aem_GpzCghI2_lUIWf4uM91mug)
+- [A Hybrid Deep-Large Language Framework For Predicting Atopic Diseases Using Environmental Patterns](https://github.com/sinaaa-aaam/Undergraduate_Thesis)
+
+
+## Featured Projects
 
 ### 🔹 Attendance and Payroll Automation System
 A system that offers seamless check-ins for employees at Meridian Port Services to track attendance, analyze punctuality trends, predict future behavior, and automate payroll calculations based on attendance data. Built during internship at Ibit Soft Ltd.
@@ -70,16 +77,16 @@ A professional portfolio website for a client. The site features a blue-themed d
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Bright Network Internship Experience UK – Technology Sector**
   Explored AI innovation, software engineering, and emerging technology trends. Proposed tech solutions for the fashion industry using AI.
-  - 🧠 [View Certificate](https://www.brightnetwork.co.uk/certificates/bright-network-ieuk-2023-techn_547ohyc2z4l8f0/)
-  - 📊 [View Proposal](https://docs.google.com/presentation/d/1gAIUG92Q9sd07HeP3cW_Tu-5YqEtbgQqRUv01eyJSlU/edit?usp=sharing)
+  - [View Certificate](https://www.brightnetwork.co.uk/certificates/bright-network-ieuk-2023-techn_547ohyc2z4l8f0/)
+  - [View Proposal](https://docs.google.com/presentation/d/1gAIUG92Q9sd07HeP3cW_Tu-5YqEtbgQqRUv01eyJSlU/edit?usp=sharing)
 
 - **CITI Program – Humanities: Responsible Conduct of Research**
   Trained in ethical research practices: data management, authorship, plagiarism, peer review, and collaborative research.
-  - 📄 [View Certificate](https://www.citiprogram.org/verify/?w86fdad98-439c-4ce1-8f20-866c8d5c5751-69005476)
+  - [View Certificate](https://www.citiprogram.org/verify/?w86fdad98-439c-4ce1-8f20-866c8d5c5751-69005476)
 
 ---
 
@@ -96,6 +103,6 @@ A professional portfolio website for a client. The site features a blue-themed d
 
 ## 📬 Contact
 
-- 📧 ameteweesinam413@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sinam-ametewee-/)
-- 🐙 [GitHub](https://github.com/sinaaa-aaam)
+- ameteweesinam413@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sinam-ametewee-/)
+- [GitHub](https://github.com/sinaaa-aaam)
